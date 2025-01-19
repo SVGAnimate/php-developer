@@ -14,4 +14,9 @@ const char IDE_ID[] = \"qtcreator\";
 const char IDE_CASED_ID[] = \"PhpDeveloper\";
 ```
 ### Change Application Icon
+Image :
 <qt-creator>/src/plugins/coreplugin/images/logo/128/QtProject-qtcreator.png
+Ressources :
+<qt-creator>/src/plugins/coreplugin/core.qrc
+
+/!\ Launching Application in QtCreator IDE do not display properly Name/Logo
